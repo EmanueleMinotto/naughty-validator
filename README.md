@@ -62,13 +62,13 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/emanueleminotto/naughty-validator.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/emanueleminotto/naughty-validator/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/EmanueleMinotto/naughty-validator/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/emanueleminotto/naughty-validator.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/emanueleminotto/naughty-validator.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/emanueleminotto/naughty-validator.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/emanueleminotto/naughty-validator
-[link-travis]: https://travis-ci.org/emanueleminotto/naughty-validator
+[link-travis]: https://travis-ci.org/EmanueleMinotto/naughty-validator
 [link-scrutinizer]: https://scrutinizer-ci.com/g/emanueleminotto/naughty-validator/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/emanueleminotto/naughty-validator
 [link-downloads]: https://packagist.org/packages/emanueleminotto/naughty-validator
